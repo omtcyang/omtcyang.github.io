@@ -168,3 +168,31 @@ $.getJSON('/paper/conference.json', function (data) {
     insertData(filter);
 });
 
+// preprint publications
+$.getJSON('/paper/preprint.json', function (data) {
+    let insertData = function (filter=true) {
+        $.each(data, function (i, x) {
+            if (!filter || conferenceFilter(x)) {
+                insert_paper(x, '#preprint-publications');
+            }
+        });
+    }
+
+    let filter = true;
+
+    $('#full-c-publications').click(function () {
+        $('#preprint-publications').empty();
+        filter ^= true;
+        if (filter) {
+            $('#selected-c-publications').text('Selected');
+            $('#full-c-publications').text('Full');
+        } else {
+            $('#selected-c-publications').text('Full');
+            $('#full-c-publications').text('Selected');
+        }
+        insertData(filter);
+    });
+
+    insertData(filter);
+});
+
