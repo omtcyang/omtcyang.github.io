@@ -178,7 +178,6 @@ $.getJSON('/paper/conference.json', function (data) {
 $.getJSON('/paper/preprint.json', function (data) {
     let insertData = function (filter=true) {
         $.each(data, function (i, x) {
-            print(x)
             if (!filter || preprintFilter(x)) {
                 insert_paper(x, '#preprint-publications');
             }
