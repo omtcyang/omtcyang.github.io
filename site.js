@@ -88,28 +88,13 @@ function insert_paper(paper, selector) {
 // selected journal filter
 // false -> hide
 let journalFilter = function (data) {
-    if (data['hide'] === true) return false;
-    if (data['hide'] === false) return true;
-
-    // first author
-    if (data['authors'].startsWith('<b')) return true;
-    // IEEE Transaction OR ACM Transaction
-    if (data['publication'].includes('IEEE Trans') || data['publication'].includes('ACM Trans'))
-        return true;
-    // code OR dataset OR demo
-    if (data['Code'] !== undefined || data['Dataset'] !== undefined || data['Demo'] !== undefined) return true;
-
-    return false;
+    return true;
 }
 
 // selected conference filter
 // false -> hide
 let conferenceFilter = function (data) {
-    if (data['hide'] === true) return false;
-    if (data['hide'] === false) return true;
-    // ICASSP
-    if (!data['publication'].includes('ICASSP')) return true;
-    return false;
+    return true;
 }
 
 // selected preprint filter
