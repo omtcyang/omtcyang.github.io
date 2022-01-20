@@ -112,6 +112,12 @@ let conferenceFilter = function (data) {
     return false;
 }
 
+// selected preprint filter
+// false -> hide
+let preprintFilter = function (data) {
+    return true;
+}
+
 // journal publications
 $.getJSON('/paper/journal.json', function (data) {
     let insertData = function (filter=true) {
@@ -172,7 +178,7 @@ $.getJSON('/paper/conference.json', function (data) {
 $.getJSON('/paper/preprint.json', function (data) {
     let insertData = function (filter=true) {
         $.each(data, function (i, x) {
-            if (!filter || conferenceFilter(x)) {
+            if (!filter || preprintFilter(x)) {
                 insert_paper(x, '#preprint-publications');
             }
         });
