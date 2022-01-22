@@ -1,6 +1,6 @@
 function insert_paper(paper, selector) {
-    paper['authors'] = paper['authors'].replace('C. Yang', '<b class="star">C. Yang</b>')
-    paper['authors'] = paper['authors'].replace('C. Yang*', '<b class="star">C. Yang*</b>')
+    paper['authors'] = paper['authors'].replace('C. Yang', '<b>C. Yang</b>')
+    paper['authors'] = paper['authors'].replace('C. Yang*', '<b class="star">C. Yang</b>')
 
     let newLi = document.createElement('li');
     newLi.className = "STYLE13";
