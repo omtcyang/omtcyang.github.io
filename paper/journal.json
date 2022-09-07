@@ -1,5 +1,13 @@
 [
     {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "Reinforcement Shrink-Mask for Text Detection",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2022.",
+        "link": "pdf/2022 Reinforcement Shrink-Mask for Text Detection.pdf"
+    },
+    
+    {
         "authors": "C. Yang, M. Chen, Z. Xiong, Y. Yuan, and Q. Wang*",
         "title": "CM-Net: Concentric Mask Based Arbitrary-Shaped Text Detection",
         "publication": "IEEE Transactions on Image Processing (T-IP)",
@@ -7,11 +15,5 @@
         "link": "pdf/2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
     },
     
-    {
-        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
-        "title": "Reinforcement Shrink-Mask for Text Detection",
-        "publication": "IEEE Transactions on Multimedia (T-MM)",
-        "ext-info": "2022.",
-        "link": "pdf/2022 Reinforcement Shrink-Mask for Text Detection.pdf"
-    }
+    
 ]
