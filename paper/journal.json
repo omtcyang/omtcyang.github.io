@@ -6,4 +6,12 @@
         "ext-info": "vol. 31, pp. 2864-2877, 2022.",
         "link": "pdf/2022 CM-Net Concentric Mask based Arbitrary-Shaped.pdf"
     }
+    
+    {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "Reinforcement Shrink-Mask for Text Detection",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2022.",
+        "link": "pdf/2022 Reinforcement Shrink-Mask for Text Detection.pdf"
+    }
 ]
