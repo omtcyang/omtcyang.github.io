@@ -1,17 +1,9 @@
 [
     {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
-        "title": "Zoom Text Detector",
+        "title": "Text-Pass Filter: An Efficient Text Detector",
         "publication": "arxiv",
-        "ext-info": "2209.03014",
-        "link": "pdf/2022 Zoom Text Detector.pdf"
+        "ext-info": "--",
+        "link": "pdf/2022 Text-Pass Filter.pdf"
     },
-    
-    {
-        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
-        "title": "Text Growing on Leaf",
-        "publication": "arxiv",
-        "ext-info": "2209.03016",
-        "link": "pdf/2022 Text Growing on Leaf.pdf"
-    }
 ]
