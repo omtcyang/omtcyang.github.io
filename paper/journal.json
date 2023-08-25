@@ -1,6 +1,22 @@
 [
     {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "Zoom Text Detector",
+        "publication": "IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)",
+        "ext-info": "2023",
+        "link": "pdf/2022 Zoom Text Detector.pdf"
+    },
+    
+    {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
+        "title": "Text Growing on Leaf",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2023",
+        "link": "pdf/2022 Text Growing on Leaf.pdf"
+    },
+    
+    {
+        "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
         "title": "Reinforcement Shrink-Mask for Text Detection",
         "publication": "IEEE Transactions on Multimedia (T-MM)",
         "ext-info": "2022",
