@@ -1,5 +1,21 @@
 [
     {
+        "authors": "C. Yang, H. Ma, and Q. Wang*",
+        "title": "Instance Mask Growing on Leaf",
+        "publication": "Proc. British Machine Vision Conference (BMVC)",
+        "ext-info": "2023",
+        "link": "pdf/2023 Instance Mask Growing on Leaf.pdf"
+    },
+    
+    {
+        "authors": "H. Ma, C. Yang, Y. Yuan, and Q. Wang*",
+        "title": "Optimal Kernel for Real-Time Arbitrary-Shaped Text Detection",
+        "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
+        "ext-info": "2023",
+        "link": "pdf/2023 Optimal Kernel for Real-Time Arbitrary-Shaped Text Detection.pdf"
+    },
+    
+    {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
         "title": "BiP-Net: Bidirectional Perspective Strategy based Arbitrary-Shaped Text Detection Network",
         "publication": "Proc. International Conference on Acoustic, Speech, and Signal Processing (ICASSP)",
