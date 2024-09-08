@@ -1,5 +1,29 @@
 [
     {
+        "authors": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*",
+        "title": "Traffic Sign Interpretation via Natural Language Description",
+        "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
+        "ext-info": "2024",
+        "link": "pdf/2024 Traffic Sign Interpretation via Natural Language Description.pdf"
+    },
+    
+    {
+        "authors": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*",
+        "title": "Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2024",
+        "link": "pdf/2024 Spotlight Text Detector.pdf"
+    },
+    
+    {
+        "authors": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*",
+        "title": "Focus Entirety and Perceive Environment for Arbitrary-Shaped Text Detection",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2024",
+        "link": "pdf/2024 Focus Entirety and Perceive Environment for Arbitrary-Shaped Text Detection.pdf"
+    },
+    
+    {
         "authors": "C. Yang, M. Chen, Y. Yuan, and Q. Wang*",
         "title": "Zoom Text Detector",
         "publication": "IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)",
