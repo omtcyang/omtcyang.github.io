@@ -4,7 +4,10 @@
         "title": "Traffic Sign Interpretation via Natural Language Description",
         "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
         "ext-info": "2024",
-        "link": "pdf/2024 Traffic Sign Interpretation via Natural Language Description.pdf"
+        "link": "pdf/2024 Traffic Sign Interpretation via Natural Language Description.pdf",
+        "Dataset": [
+            "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
+        ]
     },
     
     {
