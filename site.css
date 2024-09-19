@@ -60,6 +60,16 @@ h2 a {color: #09C;}
     text-align:justify;
     text-justify:inter-ideograph;
 }
+.STYLE12-2 {
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-size: 12pt;
+    text-align:left;
+    padding-left:4em;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align:justify;
+    text-justify:inter-ideograph;
+}
 .STYLE13 {
     font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
     font-size: 12pt;
