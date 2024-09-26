@@ -160,31 +160,11 @@ $.getJSON('/paper/conference.json', function (data) {
     insertData(filter);
 });
 
-// preprint publications
-$.getJSON('/paper/preprint.json', function (data) {
-    let insertData = function (filter=true) {
-        $.each(data, function (i, x) {
-            if (!filter || preprintFilter(x)) {
-                insert_paper(x, '#preprint-publications');
-            }
-        });
-    }
-
-    let filter = true;
-
-    $('#full-c-publications').click(function () {
-        $('#preprint-publications').empty();
-        filter ^= true;
-        if (filter) {
-            $('#selected-c-publications').text('Selected');
-            $('#full-c-publications').text('Full');
-        } else {
-            $('#selected-c-publications').text('Full');
-            $('#full-c-publications').text('Selected');
-        }
-        insertData(filter);
-    });
-
-    insertData(filter);
+$.getJSON('https://api.github.com/repos/omtcyang/omtcyang.github.io/commits', function (data) {
+    let commit = data[0]
+    let update_time = new Date(commit.commit.committer.date);
+    // format update_time to yyyy/MM/dd
+    let update_time_str = update_time.getFullYear() + '/' + (update_time.getMonth() + 1) + '/' + update_time.getDate();
+    $('#update-time').text(update_time_str);
 });
 
