@@ -1,11 +1,14 @@
 [
     
     {
-        "authors": "C. Yang, H. Ma, Y. Yuan, and Q. Wang*",
-        "title": "Text-Pass Filter: An Efficient Scene Text Detector",
-        "publication": "IEEE Transactions on Multimedia (T-MM), Major Revision",
+        "authors": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*",
+        "title": "Traffic Sign Interpretation via Natural Language Description",
+        "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
         "ext-info": "2024",
-        "link": "pdf/2024 Text-Pass Filter.pdf"
+        "link": "pdf/2024 Traffic Sign Interpretation via Natural Language Description.pdf",
+        "Dataset": [
+            "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
+        ]
     },
 
     {
@@ -17,16 +20,12 @@
     },
     
     {
-        "authors": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*",
-        "title": "Traffic Sign Interpretation via Natural Language Description",
-        "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
+        "authors": "C. Yang, H. Ma, Y. Yuan, and Q. Wang*",
+        "title": "Text-Pass Filter: An Efficient Scene Text Detector",
+        "publication": "IEEE Transactions on Multimedia (T-MM), Major Revision",
         "ext-info": "2024",
-        "link": "pdf/2024 Traffic Sign Interpretation via Natural Language Description.pdf",
-        "Dataset": [
-            "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
-        ]
+        "link": "pdf/2024 Text-Pass Filter.pdf"
     },
-    
     {
         "authors": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*",
         "title": "Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera",
