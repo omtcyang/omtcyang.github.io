@@ -1,6 +1,25 @@
 [
     
     {
+        "authors": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*",
+        "title": "Edge Approximation Text Detector",
+        "publication": "IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)",
+        "ext-info": "2025",
+        "link": "pdf/2025 Edge Approximation Text Detector.pdf"
+    },
+    
+    {
+        "authors": "C. Yang, B. Zhao, Q. Zhou, and Q. Wang*",
+        "title": "MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "ext-info": "2025",
+        "link": "pdf/2025 MMO-IG.pdf",
+        "Code": [
+            "https://github.com/omtcyang/TSI-CN_Traffic-Sign-Interpretation-via-Natural-Language-Description-"
+        ]
+    },
+    
+    {
         "authors": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*",
         "title": "Traffic Sign Interpretation via Natural Language Description",
         "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
