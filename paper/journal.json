@@ -18,6 +18,14 @@
             "https://github.com/omtcyang/MMO-IG"
         ]
     },
+
+    {
+        "authors": "X. Han, C. Yang, J. Gao, and Q. Wang*",
+        "title": "Balancing Optimization Strategies and Practical Goals: An Efficient Scene Text Detector",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2025",
+        "link": "pdf/2025 Balancing Optimization Strategies and Practical Goals.pdf"
+    },
     
     {
         "authors": "C. Yang, K. Zhuang, M. Chen, H. Ma, X. Han, T. Han, C. Guo, H. Han, B. Zhao, and Q. Wang*",
