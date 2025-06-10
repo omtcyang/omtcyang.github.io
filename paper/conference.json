@@ -1,4 +1,13 @@
 [
+    
+    {
+        "authors": "Y. Su, Y. Wang, Q. Hu, C. Yang, and LP Chau*",
+        "title": "ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction",
+        "publication": "Proc. Computer Vision and Pattern Recognition Conference (CVPR)",
+        "ext-info": "2025",
+        "link": "pdf/2025 ANNEXE.pdf"
+    },
+    
     {
         "authors": "C. Yang, H. Ma, and Q. Wang*",
         "title": "Instance Mask Growing on Leaf",
