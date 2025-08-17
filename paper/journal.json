@@ -50,16 +50,6 @@
     },
     
     {
-        "authors": "C. Yang, H. Ma, X. Han, Y. Yuan, and Q. Wang*",
-        "title": "Text-Pass Filter: An Efficient Scene Text Detector",
-        "publication": "IEEE Transactions on Multimedia (T-MM), Major Revision",
-        "ext-info": "2024",
-        "link": "pdf/2024 Text-Pass Filter.pdf",
-        "Code": [
-            "https://github.com/omtcyang/Text-Pass-filter"
-        ]
-    },
-    {
         "authors": "X. Han, J. Gao, C. Yang, Y. Yuan, and Q. Wang*",
         "title": "Spotlight Text Detector: Spotlight on Candidate Regions Like a Camera",
         "publication": "IEEE Transactions on Multimedia (T-MM)",
