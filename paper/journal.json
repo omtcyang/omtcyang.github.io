@@ -13,7 +13,10 @@
         "title": "Pull Pole Points to Text Contour by Magnetism: A Real-Time Scene Text Detector",
         "publication": "IEEE Transactions on Image Processing (T-IP)",
         "ext-info": "2025",
-        "link": "pdf/2025 PullPolePointstoTextContourbyMagnetism.pdf"
+        "link": "pdf/2025 PullPolePointstoTextContourbyMagnetism.pdf",
+        "Code": [
+            "https://github.com/fengmulin/MTD"
+        ]
     },
     
     {
