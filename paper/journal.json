@@ -1,6 +1,30 @@
 [
     
     {
+        "authors": "C. Yang, H. Ma, X. Han, Y. Yuan, and Q. Wang*",
+        "title": "Text-Pass Filter: An Efficient Scene Text Detector",
+        "publication": "IEEE Transactions on Multimedia (T-MM)",
+        "ext-info": "2025",
+        "link": "pdf/2025 Text-Pass Filter.pdf"
+    },
+    
+    {
+        "authors": "X. Han, C. Yang, and Q. Wang*",
+        "title": "Pull Pole Points to Text Contour by Magnetism: A Real-Time Scene Text Detector",
+        "publication": "IEEE Transactions on Image Processing (T-IP)",
+        "ext-info": "2025",
+        "link": "pdf/2025 Pull Pole Points to Text Contour by Magnetism.pdf"
+    },
+    
+    {
+        "authors": "C. Yang, X. Han, T. Han, Y. Su, J. Gao, H. Zhang, Y. Wang, LP. Chau*",
+        "title": "Signeye: Traffic Sign Interpretation from Vehicle First-Person View",
+        "publication": "IEEE Transactions on Intelligent Transportation Systems (T-ITS)",
+        "ext-info": "2025",
+        "link": "pdf/2025 Signeye.pdf"
+    },
+    
+    {
         "authors": "C. Yang, X. Han, T. Han, H. Han, B. Zhao, and Q. Wang*",
         "title": "Edge Approximation Text Detector",
         "publication": "IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)",
