@@ -1,6 +1,14 @@
 [
     
     {
+        "authors": "B. Zhao, C. Yang, Q. Zhou, and Q. Wang",
+        "title": "RLI-DM: Robust Layout-Based Iterative Diffusion Model for SAR-to-RGB Image Translation",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "ext-info": "2025",
+        "link": "pdf/2025 RLI-DM.pdf"
+    },
+    
+    {
         "authors": "C. Yang, H. Ma, X. Han, Y. Yuan, and Q. Wang*",
         "title": "Text-Pass Filter: An Efficient Scene Text Detector",
         "publication": "IEEE Transactions on Multimedia (T-MM)",
