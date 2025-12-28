@@ -9,6 +9,15 @@
     },
     
     {
+        "authors": "S. Li, Y. Wang, S. Zhang, and C. Yang*",
+        "title": "HA2F: Dual-module Collaboration Guided Hierarchical Adaptive Aggregation Framework for Remote Sensing Change Detection
+",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
+        "ext-info": "2026",
+        "link": "pdf/2026 HA2F.pdf"
+    },
+    
+    {
         "authors": "S. Li, Q. Ma, S. Zhang, W. Wang, and C. Yang*",
         "title": "MDAFNet: Multi-scale Differential Edge and Adaptive Frequency Guided Network for Infrared Small Target Detection",
         "publication": "IEEE Geoscience and Remote Sensing Letters (GRSL)",
