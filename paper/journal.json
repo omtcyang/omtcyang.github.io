@@ -5,7 +5,10 @@
         "title": "DCCS-Det: Directional Context and Cross-Scale Aware Detector for Infrared Small Target",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "2026",
-        "link": "pdf/2026 DCCS-Det.pdf"
+        "link": "pdf/2026 DCCS-Det.pdf",
+        "Code": [
+            "https://huggingface.co/InPeerReview/InfraredSmallTargetDetection-IRSTD.DCCS"
+        ]
     },
     
     {
@@ -13,7 +16,10 @@
         "title": "HA2F: Dual-module Collaboration Guided Hierarchical Adaptive Aggregation Framework for Remote Sensing Change Detection",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
         "ext-info": "2026",
-        "link": "pdf/2026 HA2F.pdf"
+        "link": "pdf/2026 HA2F.pdf",
+        "Code": [
+            "https://huggingface.co/InPeerReview/RemoteSensingChangeDetection-RSCD.HA2F"
+        ]
     },
     
     {
