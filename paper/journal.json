@@ -1,4 +1,11 @@
 [
+    {
+        "authors": "S. Li, Y. Wang, and C. Yang*",
+        "title": "S2LDM: Synergizing Local Decomposition and Structural Memory for Remote Sensing Change Detection",
+        "publication": "IEEE Geoscience and Remote Sensing Letters (GRSL)",
+        "ext-info": "2026",
+        "link": "pdf/2026 S2LDM.pdf"
+    },
     
     {
         "authors": "C. Zhang#, C. Yang#, Y. Ju, J. Xiao, M. Jian, L-M. Lam*, and Q. Wang*",
