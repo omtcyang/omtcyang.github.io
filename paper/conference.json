@@ -1,6 +1,14 @@
 [
     
     {
+        "authors": "B. Zhao, Q. Zhou, Y. Wang, C. Yang, and Q. Wang*",
+        "title": "σ: Sigmoid Modulation for Ultra High Resolution Diffusion",
+        "publication": "Proc. International Conference on Machine Learning (ICML)",
+        "ext-info": "2026",
+        "link": "pdf/2025 ANNEXE.pdf"
+    },
+    
+    {
         "authors": "Y. Su, Y. Wang, Q. Hu, C. Yang, and LP Chau*",
         "title": "ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction",
         "publication": "Proc. Computer Vision and Pattern Recognition Conference (CVPR)",
