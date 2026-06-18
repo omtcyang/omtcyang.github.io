@@ -1,11 +1,19 @@
 [
     
     {
+        "authors": "B. Chen, Z. Dang, C. Yang, LP Chau, and Y. Wang*",
+        "title": "TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts",
+        "publication": "Proc. European Conference on Computer Vision (ECCV)",
+        "ext-info": "2026",
+        "link": "https://openreview.net"
+    },
+    
+    {
         "authors": "B. Zhao, Q. Zhou, Y. Wang, C. Yang, and Q. Wang*",
         "title": "σ: Sigmoid Modulation for Ultra High Resolution Diffusion",
         "publication": "Proc. International Conference on Machine Learning (ICML)",
         "ext-info": "2026",
-        "link": "pdf/2025 ANNEXE.pdf"
+        "link": "https://openreview.net"
     },
     
     {
