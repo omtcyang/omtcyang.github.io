@@ -13,6 +13,9 @@ function insert_paper(paper, selector) {
     let title = document.createElement('span');
     title.className = 'paper-title';
     title.innerText = paper['title'];
+    if (title.innerText.includes('Power-UMI')) {
+        title.classList.add('color-red');
+    }
     newLi.appendChild(title);
 
     let publication = document.createElement('span');
@@ -22,7 +25,7 @@ function insert_paper(paper, selector) {
         publication.className = 'paper-pub';
     }
     publication.innerText = paper['publication'];
-    if (publication.innerText.includes('Power-UMI')) {
+    if (publication.innerText.includes('T-PAMI') || (publication.innerText.includes('IJCV')) {
         publication.classList.add('color-red');
     }
     newLi.appendChild(publication);
