@@ -25,6 +25,7 @@ function insert_paper(paper, selector) {
         publication.className = 'paper-pub';
     }
     publication.innerText = paper['publication'];
+    // highlight T-PAMI and IJCV
     if (publication.innerText.includes('T-PAMI') || publication.innerText.includes('IJCV')) {
         publication.classList.add('color-red');
     }
