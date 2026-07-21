@@ -1,5 +1,18 @@
 [
-    
+    {
+        "authors": "X. Ma, Y. Guo†, H. Lei, F. Chen, J. Wang, B. Zhang, R. Gao, H. Zhang, M. Chen, L. Shen, Y. Wang, L. Chau, C. Cui†, and C. Yang*†",
+        "title": "Power-UMI: Multi-Scenario Tactile Robot Data Collector",
+        "publication": "Proc. Chinese Conference on Pattern Recognition and Computer Vision (PRCV)",
+        "ext-info": "2026",
+        "link": "pdf/2026 Power-UMI.pdf"
+    },
+    {
+        "authors": "X. Ma, C. Yang, and Q. Wang*",
+        "title": "PG-MVSNet: Prior-Guided Multi-View Stereo via Surface and Edge-Aware Regularization",
+        "publication": "Proc. Chinese Conference on Pattern Recognition and Computer Vision (PRCV)",
+        "ext-info": "2026",
+        "link": "pdf/2026 PG-MVSNet.pdf"
+    },
     {
         "authors": "B. Zhao, Q. Zhou, C. Yang, J. Gao, and Q. Wang*",
         "title": "SHARP: Spectrum-aware Highly-dynamic Adaptation for Resolution Promotion in Remote Sensing Synthesis",
