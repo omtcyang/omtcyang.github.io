@@ -1,6 +1,13 @@
 [
     
     {
+        "authors": "S. Li, C. Hao, J. Cheng, and C. Yang*",
+        "title": "STNR-Det: Synergistic Temporal Nuance Reconstruction for Remote Sensing Change Detection",
+        "publication": "IEEE Geoscience and Remote Sensing Letters (GRSL)",
+        "ext-info": "2026",
+        "link": "pdf/2026 STNR-Det.pdf"
+    },
+    {
         "authors": "S. Li, H. Lei, Y. Qin, and C. Yang*",
         "title": "CTTF: Cross-Temporal Tri-Difference Fusion with Mamba for Remote Sensing Change Detection",
         "publication": "IEEE Transactions on Geoscience and Remote Sensing (T-GRS)",
