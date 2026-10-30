@@ -1,5 +1,11 @@
 [
     {
+        "authors": "Q. Wang, X. Han, C. Yang, and J. Gao",
+        "title": "Exploring the Distinction Between Text and Similar Patterns: An Efficient Scene Text Detector",
+        "publication": "IEEE Transactions on Systems, Man and Cybernetics: Systems (T-SMCS)",
+        "ext-info": "2027"
+    },
+    {
         "authors": "Y. Jiang#, C. Yang#, J. Li, C. Zhang, Z. Yang and Q. Wang*",
         "title": "CityFly: Signmark-guided Autonomous UAV Navigation with Vision Language Model",
         "publication": "Pattern Recognition (PR)",
